@@ -6,7 +6,7 @@
 Independent analyses
 | Project | About | Tools |
 |---|---|---|
-| [Premier League 2023/24 Season Analysis (in progress)](https://github.com/Dynamack/data_science_projects/tree/main/Premier%20League%2023-24%20Analysis) | Analysing data of the Premier League 2023/24 season | Python |
+| [Premier League 2023/24 Season Analysis (in progress)](https://github.com/OdhranMac/data-science-projects/tree/main/Premier%20League%2023-24%20Analysis) | Analysing data of the Premier League 2023/24 season | Python |
 
 # Data Science (DataCamp)
 Small projects taken from DataCamp courses
