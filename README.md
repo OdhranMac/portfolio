@@ -6,8 +6,9 @@
 Independent analyses
 | Project | About | Tools |
 |---|---|---|
-| [Premier League 2023/24 Season Analysis](https://github.com/OdhranMac/data-science-projects/tree/main/Premier%20League%2023-24%20Analysis) | Analysing data of the Premier League 2023/24 season | Pandas, Numpy, Matplotlib, Scikit-learn |
 | [Video Game Reviews - Call of Duty](https://github.com/OdhranMac/video_game_reviews-call_of_duty) | Analysing how critical and user reviews have diverged over time for the Call of Duty Series | Pandas, Numpy, Matplotlib |
+| [Premier League 2023/24 Season Analysis](https://github.com/OdhranMac/data-science-projects/tree/main/Premier%20League%2023-24%20Analysis) | Analysing data of the Premier League 2023/24 season | Pandas, Numpy, Matplotlib, Scikit-learn |
+
 
 # Data Science (DataCamp)
 Small projects taken from DataCamp courses
