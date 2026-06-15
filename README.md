@@ -2,6 +2,20 @@
 
  Welcome to my portfolio where I showcase various code snippets and projects!
 
+# Application Programming
+Application/script development
+| Project | About | Tools |
+|---|---|---|
+| [Lyric Fetcher](https://github.com/OdhranMac/lyric-fetcher) | Script for fetching song lyrics via Genius.com API and writing to mp3 files metadata | Python |
+
+# Pinsent Masons 2025-26
+Some scripting I've done in the last year or so
+| Project | About | Tools |
+|---|---|---|
+| [Azure Document Intelligence Client]([https://github.com/OdhranMac/azure-document-intelligence-client]) | Backend for Power App that enables users to OCR documents and produce PDF or TXT files. Makes use of Azure AI Document Intelligence for OCR calls and Graph API for file handling in SharePoint. | Python, Azure, OCR, Graph API, Spark |
+| [Client Feedback]([https://github.com/OdhranMac/client-feedback]) | Part of end-to-end data ingestion pipeline in Fabric. Processes and transforms new records before writing to SharePoint via Graph API. | Python, Pandas, Graph API, Spark |
+| [Client Feedback]([https://github.com/OdhranMac/legora-users-script]) | Script to generate a CSV table of Legora (legal AI SaaS) users based on Entra group, enriched with other dimensional data. | Python, Pandas, Spark |
+
 # Data Science
 Independent analyses
 | Project | About | Tools |
@@ -24,9 +38,3 @@ Small projects taken from DataCamp courses
 | [Hypothesis Testing with Men and Women's Football Matches](https://github.com/OdhranMac/datacamp-data-science/tree/main/Hypothesis%20Testing%20with%20Men%20and%20Women's%20Football%20Matches) | Hypothesis testing between two independent samples | Pandas, Pingouin |
 | [When Was the Golden Era of Video Games?](https://github.com/OdhranMac/datacamp-data-science/tree/main/When%20Was%20The%20Golden%20Era%20of%20Video%20Games) | Querying for user and critical scores of video games | PostgreSQL |
 | [Analysing Students' Mental Health](https://github.com/OdhranMac/datacamp-data-science/tree/main/Analysing%20Students'%20Mental%20Health) | Getting summary statistics on international students' mental health in Japan | PostgreSQL |
-
-# Application Programming
-Application/script development
-| Project | About | Tools |
-|---|---|---|
-| [Lyric Fetcher](https://github.com/OdhranMac/lyric-fetcher) | Script for fetching song lyrics via Genius.com API and writing to mp3 files metadata | Python |
