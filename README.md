@@ -12,9 +12,9 @@ Application/script development
 Some scripting I've done in the last year or so
 | Project | About | Tools |
 |---|---|---|
-| [Azure Document Intelligence Client]([https://github.com/OdhranMac/azure-document-intelligence-client]) | Backend for Power App that enables users to OCR documents and produce PDF or TXT files. Makes use of Azure AI Document Intelligence for OCR calls and Graph API for file handling in SharePoint. | Python, Azure, OCR, Graph API, Spark |
-| [Client Feedback]([https://github.com/OdhranMac/client-feedback]) | Part of end-to-end data ingestion pipeline in Fabric. Processes and transforms new records before writing to SharePoint via Graph API. | Python, Pandas, Graph API, Spark |
-| [Legora Users]([https://github.com/OdhranMac/legora-users-script]) | Script to generate a CSV table of Legora (legal AI SaaS) users based on Entra group, enriched with other dimensional data. | Python, Pandas, Spark |
+| [Azure Document Intelligence Client](https://github.com/OdhranMac/azure-document-intelligence-client) | Backend for Power App that enables users to OCR documents and produce PDF or TXT files. Makes use of Azure AI Document Intelligence for OCR calls and Graph API for file handling in SharePoint. | Python, Azure, OCR, Graph API, Spark |
+| [Client Feedback](https://github.com/OdhranMac/client-feedback) | Part of end-to-end data ingestion pipeline in Fabric. Processes and transforms new records before writing to SharePoint via Graph API. | Python, Pandas, Graph API, Spark |
+| [Legora Users](https://github.com/OdhranMac/legora-users-script) | Script to generate a CSV table of Legora (legal AI SaaS) users based on Entra group, enriched with other dimensional data. | Python, Pandas, Spark |
 
 # Data Science
 Independent analyses
